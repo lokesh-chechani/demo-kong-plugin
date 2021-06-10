@@ -11,7 +11,7 @@ local pluginName = package:match("^kong%-plugin%-(.+)$")  -- "helloplugin"
 
 supported_platforms = {"linux", "macosx"}
 source = {
-  url = "http://github.com/Kong/kong-plugin.git",
+  url = "http://github.com/lokesh-chechani/hello-kong-plugin.git",
   tag = "0.1.0"
 }
 
