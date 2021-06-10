@@ -13,3 +13,6 @@ This plugin was designed to work with the
 [`kong-vagrant`](https://github.com/Kong/kong-vagrant) development environments.
 
 Please check out those repos `README` files for usage instructions.
+
+[badge-travis-url]: https://travis-ci.org/lokesh-chechani/hello-kong-plugin/branches
+[badge-travis-image]: https://travis-ci.com/lokesh-chechani/hello-kong-plugin.svg?branch=master
